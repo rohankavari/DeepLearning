@@ -12,3 +12,6 @@
 
 ## Style Transfer using VGG19
 * [Style Transfer](https://github.com/rohankavari/DeepLearning/blob/main/Copy_of_Style_Transfer_Exercise.ipynb)
+
+## Movie review Sentiment Analysis
+* [Sentiment Analysis](https://github.com/rohankavari/DeepLearning/blob/main/Copy_of_Style_Transfer_Exercise.ipynb)
