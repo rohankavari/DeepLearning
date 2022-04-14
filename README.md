@@ -15,3 +15,6 @@
 
 ## Movie review Sentiment Analysis
 * [Sentiment Analysis](https://github.com/rohankavari/DeepLearning/blob/main/Sentiment_RNN.ipynb)
+
+## Twitter Sentiment Analysis
+* [Twitter Sentiment Analysis](https://github.com/rohankavari/DeepLearning/blob/main/TwitterSentimentAnalysis.ipynb)
